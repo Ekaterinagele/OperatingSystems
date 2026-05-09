@@ -46,6 +46,6 @@
 ### **Коммиты**
 <img width="882" height="115" alt="image" src="https://github.com/user-attachments/assets/778804c1-5e39-41a1-a190-2e726e35c070" />
 
-## Лабораторная работа 3a
+## Лабораторная работа 3b
 ###  
 
