@@ -21,8 +21,6 @@
 <img width="518" height="62" alt="без оптимизации" src="https://github.com/user-attachments/assets/93868e3e-63fe-423e-9866-dfcac1aa0a68" />
 
 <img width="1102" height="709" alt="ассемблерный код без оптимизации" src="https://github.com/user-attachments/assets/e5d28f04-d82e-4f28-8a3e-8f6269c85764" />
-
-
 **2)** С оптимизацией -O3
 <img width="518" height="51" alt="оптимизация O3" src="https://github.com/user-attachments/assets/cea949c5-aa7c-4067-8491-cd6ef34c27d9" />
 
