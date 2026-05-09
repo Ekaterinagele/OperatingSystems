@@ -32,11 +32,10 @@
 <img width="1311" height="287" alt="git" src="https://github.com/user-attachments/assets/c3e41806-0027-422b-b93f-1570643849c9" />
 
 **Создаем и разрабатываем Makefile**
-<img width="898" height="428" alt="Makefile" src="https://github.com/user-attachments/assets/3e58cb6f-6ea6-4cbe-8779-354787921d51" />
+<img width="810" height="432" alt="Makefile" src="https://github.com/user-attachments/assets/691f682d-2f5f-441f-8f5e-3e0f3fab0a77" />
 
 **Запускаем Makefile**
-<img width="526" height="96" alt="запуск Makefile" src="https://github.com/user-attachments/assets/73453d35-c849-42fe-b1a3-c53b06a428e6" />
-
+<img width="529" height="113" alt="запуск Makefile" src="https://github.com/user-attachments/assets/fc4a8c79-cecf-4dcf-b15b-f8bdc95d6b86" />
 
 
 
