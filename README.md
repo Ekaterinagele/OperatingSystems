@@ -1,6 +1,3 @@
-<img width="1104" height="785" alt="ассемблерный код с оптимизацией -О3" src="https://github.com/user-attachments/assets/af40aa95-e6d4-40e1-9ed2-14d2bd7a5a9d" />
-<img width="1104" height="785" alt="ассемблерный код с оптимизацией -О3" src="https://github.com/user-attachments/assets/e6647f04-814e-469b-bd4c-f3f3ec2e5dd8" />
-<img width="1104" height="785" alt="ассемблерный код с оптимизацией -О3" src="https://github.com/user-attachments/assets/c5b8905d-851e-4f2f-9dab-1235fc3aa3a6" />
 # Операционные системы
 ## Лабораторная работа 1
 **Реализуем функцию вычисления факториала на С++**
