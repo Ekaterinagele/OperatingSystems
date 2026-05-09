@@ -16,6 +16,7 @@
 <img width="802" height="110" alt="трансляция main factorial" src="https://github.com/user-attachments/assets/c3173868-820b-43d1-a614-173b50d28815" />
 
 **Проведем компиляцию в ассемблерный код:**
+
 **1)** Без оптимизации
 
 <img width="518" height="62" alt="без оптимизации" src="https://github.com/user-attachments/assets/93868e3e-63fe-423e-9866-dfcac1aa0a68" />
