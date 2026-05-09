@@ -28,6 +28,9 @@
 
 <img width="1104" height="785" alt="ассемблерный код с оптимизацией -О3" src="https://github.com/user-attachments/assets/06e54e1f-2bda-443f-a0e1-9993280f815c" />
 
+**Подключаем гит и создаем первый коммит**
+<img width="1311" height="287" alt="git" src="https://github.com/user-attachments/assets/c3e41806-0027-422b-b93f-1570643849c9" />
+
 
 
 
