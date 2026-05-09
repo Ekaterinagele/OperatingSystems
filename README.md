@@ -2,7 +2,7 @@
 ## Лабораторная работа 1
 ### Реализуем функцию вычисления факториала на С++
 
-**Создаем заголовочный файл с функцией**
+### 1.**Создаем заголовочный файл с функцией**
 <img width="546" height="184" alt="factorial" src="https://github.com/user-attachments/assets/a5142dd5-6f7f-465c-86c4-c4106019d13d" />
 
 **Напишем реализацию функции** 
@@ -36,8 +36,11 @@
 
 **Запускаем Makefile**
 <img width="529" height="113" alt="запуск Makefile" src="https://github.com/user-attachments/assets/fc4a8c79-cecf-4dcf-b15b-f8bdc95d6b86" />
+ ### 2.**Чтобы усовершенствовать программу, добавим переллельный поток вычислений и настроим передачу результата через общий файл с синхронным доступом**
+**
+<img width="783" height="600" alt="усовершенствование программы" src="https://github.com/user-attachments/assets/e4bdc300-01b0-489f-baa4-b47ede71f771" />
 
-
+<img width="783" height="443" alt="Makefile2" src="https://github.com/user-attachments/assets/61e93218-cbf5-4909-b6bb-e84d4f8d5269" />
 
 
 
