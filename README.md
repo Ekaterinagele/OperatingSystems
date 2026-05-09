@@ -43,7 +43,7 @@
 
 <img width="783" height="443" alt="Makefile2" src="https://github.com/user-attachments/assets/61e93218-cbf5-4909-b6bb-e84d4f8d5269" />
 
-**Коммиты**
+### **Коммиты**
 <img width="882" height="115" alt="image" src="https://github.com/user-attachments/assets/778804c1-5e39-41a1-a190-2e726e35c070" />
 
 
