@@ -35,7 +35,8 @@
 <img width="810" height="432" alt="Makefile" src="https://github.com/user-attachments/assets/691f682d-2f5f-441f-8f5e-3e0f3fab0a77" />
 
 #### **Запускаем Makefile**
-<img width="529" height="113" alt="запуск Makefile" src="https://github.com/user-attachments/assets/fc4a8c79-cecf-4dcf-b15b-f8bdc95d6b86" />
+<img width="529" height="113" alt="запуск Makefile" src="https://github.com/user-attachments/assets/fc4a8c79-cecf-4dcf-b15b-f8bdc95d6b86" 
+
 ### 2.**Чтобы усовершенствовать программу, добавим переллельный поток вычислений и настроим передачу результата через общий файл с синхронным доступом**
 <img width="783" height="600" alt="усовершенствование программы" src="https://github.com/user-attachments/assets/e4bdc300-01b0-489f-baa4-b47ede71f771" />
 
