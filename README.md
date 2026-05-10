@@ -59,7 +59,17 @@
 ## Проверяем список файлов
 <img width="1233" height="287" alt="проверяем создание файлов PowerShell" src="https://github.com/user-attachments/assets/45c9f7bd-0356-4c9e-8832-a18286ec8efe" />
 
-## Создаем файл сценария 
+## Открываем Блокнот и создаем файл сценария 
+<img width="425" height="42" alt="Открываем Блокнот и создаем файл" src="https://github.com/user-attachments/assets/81674a3a-8911-4a96-a5c3-e35e3cd3907b" />
+<img width="1032" height="398" alt="скрипт" src="https://github.com/user-attachments/assets/5742ba8d-c10f-4d03-8195-bd32c9944c28" />
+
+## Находим заданное слово "PowerShell" в созданных файлах и записываем результат поиска в файл *list.txt*
+<img width="493" height="103" alt="результат" src="https://github.com/user-attachments/assets/728a8b5f-9586-441f-a58a-5f201c284d34" />
+
+
+
+
+
 
 
 
