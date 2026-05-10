@@ -1,4 +1,4 @@
-# Операционные системы
+<img width="1233" height="507" alt="создаем файлы в PowerShell" src="https://github.com/user-attachments/assets/1ce1f3ca-c7c7-4257-9da7-1878990809d3" /># Операционные системы
 ## Лабораторная работа 1
 ### Реализация функции для вычисления факториала на С++
 
@@ -45,3 +45,21 @@
 
 ### **Коммиты**
 <img width="882" height="115" alt="image" src="https://github.com/user-attachments/assets/778804c1-5e39-41a1-a190-2e726e35c070" />
+## Лабораторная работа 3b
+## Вариант 4: "В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить"
+
+## Запускаем Windows PowerShell
+<img width="1183" height="284" alt="PowerShell" src="https://github.com/user-attachments/assets/814a2a77-86f6-4e11-8b36-bbc10448cfab" />
+
+## Создаем папку, открываем ее и создаем три (.txt) файла
+<img width="1233" height="507" alt="создаем файлы в PowerShell" src="https://github.com/user-attachments/assets/98f53c7a-df54-48d0-8129-154c5b774cee" />
+
+## Проверяем список файлов
+<img width="1233" height="287" alt="проверяем создание файлов PowerShell" src="https://github.com/user-attachments/assets/45c9f7bd-0356-4c9e-8832-a18286ec8efe" />
+
+## Создаем файл сценария 
+
+
+
+
+
