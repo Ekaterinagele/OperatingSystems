@@ -64,7 +64,8 @@
 <img width="1032" height="398" alt="скрипт" src="https://github.com/user-attachments/assets/5742ba8d-c10f-4d03-8195-bd32c9944c28" />
 
 ## Находим заданное слово "PowerShell" в созданных файлах и записываем результат поиска в файл *list.txt*
-<img width="493" height="103" alt="результат" src="https://github.com/user-attachments/assets/728a8b5f-9586-441f-a58a-5f201c284d34" />
+<img width="478" height="184" alt="результат" src="https://github.com/user-attachments/assets/33f1469c-ffdd-4701-848e-207cc7134623" />
+
 
 
 
