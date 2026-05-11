@@ -78,6 +78,11 @@
 ## Проверяем список созданных файлов
 <img width="406" height="113" alt="проверка списка созданных файлов" src="https://github.com/user-attachments/assets/1d696451-6f9d-4234-ba5c-29d1493f71e4" />
 
+## Открываем аналог Блокнота windows nano и создаем файл сценария
+<img width="280" height="28" alt="открываем файл" src="https://github.com/user-attachments/assets/99a3b95d-b70f-4509-b9a6-c212487aadf7" />
+<img width="666" height="313" alt="код в nano" src="https://github.com/user-attachments/assets/c75a31c6-a859-4aaf-bfde-d74d404b0b7f" />
+
+
 
 
 
