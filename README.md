@@ -72,6 +72,9 @@
 ## Запускаем Linux Bash
 <img width="903" height="488" alt="bash" src="https://github.com/user-attachments/assets/b70fad23-dee8-4578-a5aa-a7121a6faae4" />
 
+## Создаем папку, открываем ее и создаем три (.txt) файла
+<img width="886" height="148" alt="создание файлов" src="https://github.com/user-attachments/assets/0dcd4780-befc-48f8-b209-72e698013c6b" />
+
 
 
 
