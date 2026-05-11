@@ -80,7 +80,10 @@
 
 ## Открываем аналог Блокнота windows nano и создаем файл сценария
 <img width="280" height="28" alt="открываем файл" src="https://github.com/user-attachments/assets/99a3b95d-b70f-4509-b9a6-c212487aadf7" />
-<img width="666" height="313" alt="код в nano" src="https://github.com/user-attachments/assets/c75a31c6-a859-4aaf-bfde-d74d404b0b7f" />
+<img width="560" height="360" alt="создание ксрипта" src="https://github.com/user-attachments/assets/227b95d1-ca53-4d59-85b3-49065175ebb4" />
+
+## Находим заданное слово "Bash" в созданных файлах и записываем результат поиска в файл *list.txt*
+<img width="419" height="68" alt="результат" src="https://github.com/user-attachments/assets/5bdb3821-03fe-4937-8393-65260ae3c8c8" />
 
 
 
