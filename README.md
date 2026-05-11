@@ -70,6 +70,9 @@
 ## Вариант 4: "В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить"
 
 ## Запускаем Linux Bash
+<img width="903" height="488" alt="bash" src="https://github.com/user-attachments/assets/b70fad23-dee8-4578-a5aa-a7121a6faae4" />
+
+
 
 
 
