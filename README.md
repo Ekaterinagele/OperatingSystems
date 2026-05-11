@@ -75,6 +75,8 @@
 ## Создаем папку, открываем ее и создаем три (.txt) файла
 <img width="886" height="148" alt="создание файлов" src="https://github.com/user-attachments/assets/0dcd4780-befc-48f8-b209-72e698013c6b" />
 
+## Проверяем список созданных файлов
+<img width="406" height="113" alt="проверка списка созданных файлов" src="https://github.com/user-attachments/assets/1d696451-6f9d-4234-ba5c-29d1493f71e4" />
 
 
 
