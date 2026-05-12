@@ -84,39 +84,3 @@
 
 ## Находим заданное слово "PowerShell" в созданных файлах и записываем результат поиска в файл *list.txt*
 <img width="478" height="184" alt="результат" src="https://github.com/user-attachments/assets/33f1469c-ffdd-4701-848e-207cc7134623" />
-
-## Лабораторная работа 3a
-## Вариант 4: "В текстовых файлах (. t x t ) найти заданную в параметре сценария строку, из найденных файлов составить список, сохранить"
-
-## Запускаем Linux Bash
-<img width="903" height="488" alt="bash" src="https://github.com/user-attachments/assets/b70fad23-dee8-4578-a5aa-a7121a6faae4" />
-
-## Создаем папку, открываем ее и создаем три (.txt) файла
-<img width="886" height="148" alt="создание файлов" src="https://github.com/user-attachments/assets/0dcd4780-befc-48f8-b209-72e698013c6b" />
-
-## Проверяем список созданных файлов
-<img width="406" height="113" alt="проверка списка созданных файлов" src="https://github.com/user-attachments/assets/1d696451-6f9d-4234-ba5c-29d1493f71e4" />
-
-## Открываем аналог Блокнота windows nano и создаем файл сценария
-<img width="280" height="28" alt="открываем файл" src="https://github.com/user-attachments/assets/99a3b95d-b70f-4509-b9a6-c212487aadf7" />
-<img width="560" height="360" alt="создание ксрипта" src="https://github.com/user-attachments/assets/227b95d1-ca53-4d59-85b3-49065175ebb4" />
-
-## Находим заданное слово "Bash" в созданных файлах и записываем результат поиска в файл *list.txt*
-<img width="419" height="68" alt="результат" src="https://github.com/user-attachments/assets/5bdb3821-03fe-4937-8393-65260ae3c8c8" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
